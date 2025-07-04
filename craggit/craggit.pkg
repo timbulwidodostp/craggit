@@ -1,0 +1,5 @@
+D 'craggit': Fit Cragg's (1971) "two-tier" alternative to tobit corner-solution model Use craggit With STATA 19
+D
+F craggit.ado
+F craggit.hlp
+F craggit_ll.ado
