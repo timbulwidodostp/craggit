@@ -3,6 +3,8 @@ Fit Cragg's (1971) "two-tier" alternative to tobit corner-solution model Use cra
 
 Fitting and interpreting Cragg's tobit alternative Use craggit With STATA 19
 
+https://www.youtube.com/watch?v=GR23MM7BaGU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
